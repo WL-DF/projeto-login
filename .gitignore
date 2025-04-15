@@ -12,6 +12,7 @@ frontend/build/
 frontend/.env*
 !frontend/.env.example  # Exceto este arquivo de exemplo
 frontend/coverage/
+frontend/package-lock.json
 
 # IDEs/Editores
 .vscode/
